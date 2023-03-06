@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Audit]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
